@@ -12,6 +12,4 @@ Credits
 
 This project follows the guide from the tutorial linked above.
 
-License
-
-Feel free to use and modify this project as needed.
+Happy Valentine's Day! 💖
